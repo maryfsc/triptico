@@ -1,0 +1,14 @@
+#container {
+	display: flex;
+	justify-content: center;
+	border: 1px solid #000;
+}
+
+.nav {
+	position: absolute;
+
+}
+
+.footer {
+	align-self: flex-end;
+}
